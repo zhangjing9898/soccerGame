@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json",
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,aImg_png,ballImg_png,bgImg_png,bImg_png,btn_png,btnImg_png,pause_png,reset_png,resume_png,win_png",
 			"name": "preload"
 		}
 	],
@@ -135,6 +135,56 @@
 			"name": "description_json",
 			"type": "json",
 			"url": "config/description.json"
+		},
+		{
+			"name": "aImg_png",
+			"type": "image",
+			"url": "assets/aImg.png"
+		},
+		{
+			"name": "ballImg_png",
+			"type": "image",
+			"url": "assets/ballImg.png"
+		},
+		{
+			"name": "bgImg_png",
+			"type": "image",
+			"url": "assets/bgImg.png"
+		},
+		{
+			"name": "bImg_png",
+			"type": "image",
+			"url": "assets/bImg.png"
+		},
+		{
+			"name": "btn_png",
+			"type": "image",
+			"url": "assets/btn.png"
+		},
+		{
+			"name": "btnImg_png",
+			"type": "image",
+			"url": "assets/btnImg.png"
+		},
+		{
+			"name": "pause_png",
+			"type": "image",
+			"url": "assets/pause.png"
+		},
+		{
+			"name": "reset_png",
+			"type": "image",
+			"url": "assets/reset.png"
+		},
+		{
+			"name": "resume_png",
+			"type": "image",
+			"url": "assets/resume.png"
+		},
+		{
+			"name": "win_png",
+			"type": "image",
+			"url": "assets/win.png"
 		}
 	]
 }
