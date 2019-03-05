@@ -99,8 +99,10 @@ class Main extends eui.UILayer {
      * 创建场景界面
      * Create scene interface
      */
+    ball: egret.Bitmap;
     protected createGameScene(): void {
-       
+       let ballStage: ball = new ball();
+       this.addChild(ballStage);
     }
     /**
      * 根据name关键字创建一个Bitmap对象。name属性请参考resources/resource.json配置文件的内容。
