@@ -61,19 +61,19 @@ var ball = (function (_super) {
         var _this = this;
         this.tw = egret.Tween.get(img);
         this.tw.to({
-            y: 780
+            y: 700
         }, 500)
             .to({
             y: 10
         }, 500)
             .to({
-            y: 780
+            y: 700
         }, 500)
             .to({
             y: 10
         }, 500)
             .to({
-            y: 780
+            y: 700
         }, 500)
             .to({
             y: 10

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <e:Skin class="ballSkin" width="480" height="800" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
 	<w:Config id="1694b9866f1" ></w:Config>
-	<e:Image source="bgImg_png" anchorOffsetX="0" left="0" top="0" width="480.3" anchorOffsetY="0" height="803.7" locked="true"/>
-	<e:Image source="aImg_png" left="34" top="94" anchorOffsetX="0" width="411.49" anchorOffsetY="0" height="226.03" locked="true"/>
+	<e:Image source="bgImg_png" anchorOffsetX="0" left="0" top="0" width="480.3" anchorOffsetY="0" height="803.7"/>
+	<e:Image source="aImg_png" left="34" top="94" anchorOffsetX="0" width="411.49" anchorOffsetY="0" height="226.03"/>
+	<e:Image source="bImg_png" x="38.3" y="477.85" anchorOffsetX="0" width="406" anchorOffsetY="0" height="229"/>
 	<e:Image id="img_ball" source="ballImg_png" x="190.41" y="351.85" anchorOffsetX="0" width="98.66" anchorOffsetY="0" height="92"/>
-	<e:Image source="bImg_png" x="38.3" y="477.85" anchorOffsetX="0" width="406" anchorOffsetY="0" height="229" locked="true"/>
 	<e:Button id="btn_start" label="" x="311.4" y="339.93" anchorOffsetX="0" width="152.57" anchorOffsetY="0" height="117.78">
 		<e:skinName>
 			<e:Skin states="up,down,disabled,pause,resume,reset">

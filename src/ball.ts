@@ -65,19 +65,19 @@ class ball extends eui.Component implements  eui.UIComponent {
 	private tweenFn(img: eui.Image, btn: eui.Image) {
 		this.tw = egret.Tween.get(img);
 		this.tw.to({
-			y: 780
+			y: 700
 		},500)
 		.to({
 			y: 10
 		}, 500)
 		.to({
-			y: 780
+			y: 700
 		}, 500)
 		.to({
 			y: 10
 		}, 500)
 		.to({
-			y: 780
+			y: 700
 		}, 500)
 		.to({
 			y: 10
